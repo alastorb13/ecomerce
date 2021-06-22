@@ -1,0 +1,6 @@
+#modal{
+    position: fixed;
+    top:10vh;
+    right: 10vw;
+    z-index: 50;
+}

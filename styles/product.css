@@ -1,0 +1,46 @@
+a{
+    color:black
+  }
+  a:hover{
+    color:red
+  }
+  #principal {
+    position: static;
+    width: 95vw;
+    height: 95vh;
+  }
+  #main {
+    width: 95vw;
+    height: 70vh;
+  }
+  .cabecera {
+    height: 15px;
+    width: 100%;
+    position: static;
+    top: 0px;
+  }
+  #category-slice{
+      display: flex;
+      position: fixed;
+      overflow-y: auto;
+      width: 95vw;
+      height: 70vh;
+      
+  }
+  .category-container {
+    width: 30vh;
+    height: 30vh;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .pie {
+    display: flex;
+    position: fixed;
+    height: 15px;
+    width: 95vh;
+  }
+  #modal{
+    display:none
+  }
+  
